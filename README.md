@@ -1,4 +1,4 @@
-# imagebinarytree
+# Image Binary Tree
 
 ## Prerequirement
 ### Install Graphviz
