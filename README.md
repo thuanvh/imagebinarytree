@@ -16,3 +16,6 @@ cmake ../src
 ```
 build/bptSegment
 ```
+
+## Video
+https://youtu.be/DUDwwQwyIfs
