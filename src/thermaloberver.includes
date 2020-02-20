@@ -1,0 +1,10 @@
+algo/opencv
+algo
+build
+learning
+lib/LibSVM
+lib/LibTIM/Algorithms
+lib/LibTIM/Common
+lib/wavelet
+ui/opencv
+ui
