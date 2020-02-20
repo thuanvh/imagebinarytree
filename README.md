@@ -1,7 +1,7 @@
 # imagebinarytree
 
 ## Prerequirement
-# Install Graphviz
+### Install Graphviz
 https://graphviz.gitlab.io/download/
 
 ## Build
